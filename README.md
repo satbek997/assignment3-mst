@@ -138,8 +138,6 @@ GeeksforGeeks, “Prim’s vs Kruskal’s Algorithm”.
 Course materials and lab manual (Assignment 3 – MST Optimization).
 
 
-##  Bonus Section – Graph Design in Java (10%)
-
 This project includes a **custom object-oriented Graph structure** used by both algorithms.
 
 ###  Implemented Classes
