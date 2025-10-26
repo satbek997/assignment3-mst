@@ -1,9 +1,8 @@
 #  Assignment 3 – Minimum Spanning Tree (MST)
 
 **Course:** Design and Analysis of Algorithms  
-**Student:** Satbek [Your Surname]  
-**Group:** [Your Group]  
-**Instructor:** [Teacher Name]
+**Student:** Satbek   
+**Group:** SE-2435  
 
 ---
 
